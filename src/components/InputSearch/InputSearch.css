@@ -1,0 +1,12 @@
+.container-search {
+  width: 100%;
+  margin: 6px 0;
+}
+
+.container-search__input {
+  width: 100%;
+  padding: .8vw .6vw;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: var(--primary-background-color);
+}
